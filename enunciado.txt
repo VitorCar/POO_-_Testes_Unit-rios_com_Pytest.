@@ -1,0 +1,9 @@
+crie um sistema:
+
+Classe base Funcionario com atributos nome e salario.
+Subclasse Gerente e mais duas que recebe também atributo departamento.
+Método exibir_dados() que imprime todos os dados.
+Crie um objeto de suas subclasses e chame exibir_dados().
+
+Passo 2:
+Crie teste unitarios utlizando o pytest para seu sistema.
